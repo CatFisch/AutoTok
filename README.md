@@ -47,3 +47,4 @@ dir/to/text/files$ python AutoClean.py --file <some_txt_file.xlsx> <another_txt_
    - cuts off punctuation, parentheses etc.                            
    - disambiguates periods                                             
    - preserves SGML markup
+It can be downloaded [here](https://www.cis.uni-muenchen.de/~schmid/tools/TreeTagger/#parfiles)
