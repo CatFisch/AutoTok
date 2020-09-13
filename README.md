@@ -18,7 +18,7 @@ limitations under the License.
 
 ## What does the AutoTokClean-Script do?
 
-The AutoTok-Script applies the "utf8-tokenize.pl"-Script (see below) to .txt files and saves the thereby tokenized files as .xlsx which one token per column. 
+The AutoTok-Script applies the "utf8-tokenize.pl"-Script (see below) to .txt files and saves the thereby tokenized files as .xlsx with one token per column. 
 
 
 ## Requirements for using the AutoTok-Script
