@@ -27,7 +27,7 @@ def process_file(files):
 #run .pl script un .txt files
     tokenized = open(output, "w")
     subprocess.call(["perl", "utf8-tokenize.pl", files, output], stdout=tokenized)
-# print final message
+#print final message
     print(os.path.basename(base_name), "was tokenized successfully")
 
 #end function for optionality of input files
