@@ -46,4 +46,4 @@ else:
       for files in txtfiles:
           process_file(files)
 
-print("\n selected files are tokenized altogeter \n ฅ^•ﻌ•^ฅ") 
+print("\n selected files are tokenized altogeter \n ฅ^•ﻌ•^ฅ")
